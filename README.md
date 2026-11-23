@@ -1,5 +1,9 @@
 # Embercrown
 
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/zynthlabsio/best-card-game-20261122-1826-entry-muse/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/zynthlabsio/best-card-game-20261122-1826-entry-muse/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+
 A tactical card duel, made for the [make.fun best-card-game-20261122-1826 competition](https://make.fun/bounty/best-card-game-20261122-1826).
 
 Two heroes face off over the Ember Throne. You duel Queen Vesper, an AI rival, summoning creatures from four houses — **Ember ▲**, **Tide ≋**, **Thorn ✦** and **Gloom ☾** — spending a growing Ember pool, trading blows on the board, and striking the enemy hero. First hero to 0 Life loses.
